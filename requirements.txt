@@ -1,0 +1,9 @@
+transformers==4.24.0
+pytorch==1.7.0
+sklearn
+tqdm==4.49.0
+numpy==1.24.3
+scipy==1.2.1
+torch==2.0.0+cu117
+loguru==0.5.3
+scikit-learn==1.0
